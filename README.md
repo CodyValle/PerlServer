@@ -1,2 +1,2 @@
 # PerlServer
-Multipl examples of servers written in Perl.
+Multiple examples of servers written in Perl.
